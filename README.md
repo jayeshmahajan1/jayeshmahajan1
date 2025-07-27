@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **mahajanjayesh73@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently working on:AI/Ml project that's Ai_interview Simulator
 - 🌱 **I’m currently learning:** I'm 3rd year Student and Pursuing bachelor of engineering in artificial intelligence and data science
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 👯 **I’m looking to collaborate on:** AI_interview Project
 - 🤔 **I’m looking for help with:** For AI/ML Project
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mahajanjayesh73@gmail.com
@@ -50,10 +50,10 @@ Email Me 👉 ✉️ **mahajanjayesh73@gmail.com** For Collaboration/Project or 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="mailto:ajinkyadhotre201@gmail.com">
+  <a href="mailto:mahajanjayesh73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/AjinkyaD3" target="_blank">
+  <a href="https://linkedin.com/in/jayesh-mahajan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
