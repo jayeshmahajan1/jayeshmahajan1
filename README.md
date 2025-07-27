@@ -53,7 +53,7 @@ Email Me 👉 ✉️ **mahajanjayesh73@gmail.com** For Collaboration/Project or 
   <a href="mailto:mahajanjayesh73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/jayesh-mahajan" target="_blank">
+  <a href="https://www.linkedin.com/in/jayesh-mahajan-0327a1295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
